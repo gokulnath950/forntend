@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#instagram-feed {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.instagram-post {
+    width: 300px;
+    margin-bottom: 20px;
+    box-shadow: 10px rbg(5, 10, 15, 16.1);
+    border-radius: 5px;
+}
+
+.instagram-post img {
+    width: 100%;
+    border-radius: 5px 5px 0 0;
+}
+
+.instagram-post .caption {
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-top: 1px solid #ddd;
+}

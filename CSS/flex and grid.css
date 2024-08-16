@@ -1,0 +1,52 @@
+.parent{
+    background-color: aqua;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+.child1{
+    background-color: bisque;
+    width: 10%;
+    height: 50px;
+    text-align: center;
+    padding-top: 1rem;
+}
+
+.child2{
+    background-color: rgb(29,130,29);
+    width: 10%;
+    height: 50px;
+    text-align: center;
+    padding-top: 1rem;
+
+}
+
+.child3{
+    background-color:rgb(86,77,164) ;
+    width: 10%;
+    height: 50px;
+    text-align: center;
+    padding-top: 1rem;
+
+}
+
+.child4{
+    background-color: rgb(228,235,34);
+    width: 10%;
+    height: 50px;
+    text-align: center;
+    padding-top: 1rem;
+
+}
+
+.parent1{
+    background-color: rgb(30,209,149);
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 10px;
+}

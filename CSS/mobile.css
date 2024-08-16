@@ -1,0 +1,25 @@
+body{
+    background-color:red;
+}
+.menu{
+    flex: 10%;
+    display: inline-block;
+    list-style-type:none;
+}
+body{
+    background-color: black;
+}
+.menu{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+
+}
+
+
+

@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+.menu{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+
+}
+.a1:hover{
+    background-color: white;
+    color: black;
+    width: 5px;
+    height: 5px;
+    border-radius: 5px;
+}
+.image{
+    display: flex;
+    justify-content: space-between;
+}
+.im{
+    width: 300px;
+    border-radius: 10px;
+    
+}
+

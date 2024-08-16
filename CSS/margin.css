@@ -1,0 +1,9 @@
+.div-style{
+    border: 1px solid green;
+    width: 30%;
+    height: 70%;
+    /* margin:audio:*/
+    margin : 10px;
+    /*margin-bottom: 8rem;*/
+    /* margin:10px 0 40px 20rem;*/
+}

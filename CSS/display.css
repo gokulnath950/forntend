@@ -1,0 +1,22 @@
+.p1-style{
+    background-color: red;
+    color:#fff;
+    text-align: justify;
+    /* display: none;*/
+   display: hidden;
+    /*display :hidden;*/
+    
+}
+
+
+.span-style{
+    background-color: aquamarine;
+    color: #fff;
+
+}
+
+ul,li{
+    background-color:rgb(146, 113, 142) ;
+    font-size: 50px;
+    display: inline-block;
+}
